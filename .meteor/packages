@@ -1,0 +1,15 @@
+# Meteor packages used by this project, one per line.
+#
+# 'meteor add' and 'meteor remove' will edit this file for you,
+# but you can also edit it by hand.
+
+meteor-platform
+sacha:spin
+rathlan:errors
+mizzao:bootstrap-3
+underscore
+iron:router
+ian:accounts-ui-bootstrap-3
+accounts-password
+reactive-var
+
